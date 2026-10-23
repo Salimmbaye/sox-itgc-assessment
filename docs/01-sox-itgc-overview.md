@@ -22,7 +22,7 @@ applications and data are reliable. If ITGCs fail, the auditor can't rely on *an
 of the automated controls or system-generated reports that sit on top of them — so
 ITGC failures have outsized consequences.
 
-> **The one-sentence version for an interview:** "ITGCs are the foundation that lets
+> "ITGCs are the foundation that lets
 > auditors trust the systems producing the financial statements — if they're broken,
 > nothing built on those systems can be relied upon."
 
