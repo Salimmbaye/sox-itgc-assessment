@@ -7,8 +7,7 @@ chart, and an audit-style findings report.
 
 > **Portfolio / lab project.** *NorthStar Lending, Inc.* is fictional. This is the
 > finance-crossover piece of a three-project GRC portfolio — it sits on the seam
-> between IT audit and financial reporting that most cybersecurity candidates can't
-> speak to. Companion to the
+> between IT audit and financial reporting. Companion to the
 > [risk assessment](../risk-assessment-fintech) and
 > [controls crosswalk](../grc-controls-crosswalk).
 
