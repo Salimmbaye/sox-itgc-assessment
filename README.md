@@ -28,7 +28,7 @@ automated controls and reports built on them can't be relied upon. Full primer:
 
 | Effective (Pass) | Exceptions | Failures | Overall |
 |------------------|-----------|----------|---------|
-| 11 (69%) | 2 | 2 | **Material Weakness** |
+| 11 (69%) | 3 | 2 | **Material Weakness** |
 
 Deficiencies: **1 material weakness** (developer access to production — a
 segregation-of-duties failure), **2 significant deficiencies** (access management),
@@ -55,6 +55,8 @@ segregation-of-duties failure), **2 significant deficiencies** (access managemen
 ```
 sox-itgc-assessment/
 ├── README.md
+├── SOX-ITGC-Assessment.xlsx        ← control testing workbook (matrix + dashboard)
+├── SOX-ITGC-Report.docx            ← audit-style findings report
 ├── docs/
 │   ├── 01-sox-itgc-overview.md     ← SOX, ICFR, the 4 domains, deficiency severity, SoD
 │   └── 03-findings-report.md       ← findings, severity, root cause, remediation
