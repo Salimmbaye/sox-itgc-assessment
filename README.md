@@ -8,9 +8,8 @@ chart, and an audit-style findings report.
 > **Portfolio / lab project.** *NorthStar Lending, Inc.* is fictional. This is the
 > finance-crossover piece of a three-project GRC portfolio — it sits on the seam
 > between IT audit and financial reporting. Companion to the
-> [risk assessment](../Information-Security-Risk-Assessment—Fintech-(NIST-CSF-2.0)
-) and
-> [controls crosswalk](../grc-controls-crosswalk).
+> [risk assessment](https://github.com/Salimmbaye/risk-assessment-fintech) and
+> [controls crosswalk](https://github.com/Salimmbaye/grc-controls-crosswalk).
 
 ---
 
@@ -49,7 +48,7 @@ segregation-of-duties failure), **2 significant deficiencies** (access managemen
 ## Deliverables
 
 - [`SOX-ITGC-Report.docx`](SOX-ITGC-Report.docx): audit-style findings report (Word)
-- [`SOX-ITGC-Assessment.xlsx`](SOX-ITGC-Assessment.xlsx(2)): control testing workbook (Excel)
+- [`SOX-ITGC-Assessment.xlsx`](SOX-ITGC-Assessment.xlsx): control testing workbook (Excel)
 
 ## Repository structure
 
