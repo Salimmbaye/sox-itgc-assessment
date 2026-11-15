@@ -2,7 +2,7 @@
 
 > **Portfolio note:** This is a lab project using the same fictional fintech,
 > *NorthStar Lending, Inc.*, introduced in the
-> [risk assessment project](../../risk-assessment-fintech). NorthStar is preparing
+> [risk assessment project](https://github.com/Salimmbaye/risk-assessment-fintech). NorthStar is preparing
 > for an eventual IPO, which is when a private company must get its controls
 > SOX-ready. All data is invented.
 

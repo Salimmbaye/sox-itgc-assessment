@@ -8,9 +8,8 @@ chart, and an audit-style findings report.
 > **Portfolio / lab project.** *NorthStar Lending, Inc.* is fictional. This is the
 > finance-crossover piece of a three-project GRC portfolio — it sits on the seam
 > between IT audit and financial reporting. Companion to the
-> [risk assessment](../Information-Security-Risk-Assessment—Fintech-(NIST-CSF-2.0)
-) and
-> [controls crosswalk](../grc-controls-crosswalk).
+> [risk assessment](https://github.com/Salimmbaye/risk-assessment-fintech) and
+> [controls crosswalk](https://github.com/Salimmbaye/grc-controls-crosswalk).
 
 ---
 
@@ -29,7 +28,7 @@ automated controls and reports built on them can't be relied upon. Full primer:
 
 | Effective (Pass) | Exceptions | Failures | Overall |
 |------------------|-----------|----------|---------|
-| 11 (69%) | 2 | 2 | **Material Weakness** |
+| 11 (69%) | 3 | 2 | **Material Weakness** |
 
 Deficiencies: **1 material weakness** (developer access to production — a
 segregation-of-duties failure), **2 significant deficiencies** (access management),
@@ -49,13 +48,15 @@ segregation-of-duties failure), **2 significant deficiencies** (access managemen
 ## Deliverables
 
 - [`SOX-ITGC-Report.docx`](SOX-ITGC-Report.docx): audit-style findings report (Word)
-- [`SOX-ITGC-Assessment.xlsx`](SOX-ITGC-Assessment.xlsx(2)): control testing workbook (Excel)
+- [`SOX-ITGC-Assessment.xlsx`](SOX-ITGC-Assessment.xlsx): control testing workbook (Excel)
 
 ## Repository structure
 
 ```
 sox-itgc-assessment/
 ├── README.md
+├── SOX-ITGC-Assessment.xlsx        ← control testing workbook (matrix + dashboard)
+├── SOX-ITGC-Report.docx            ← audit-style findings report
 ├── docs/
 │   ├── 01-sox-itgc-overview.md     ← SOX, ICFR, the 4 domains, deficiency severity, SoD
 │   └── 03-findings-report.md       ← findings, severity, root cause, remediation
