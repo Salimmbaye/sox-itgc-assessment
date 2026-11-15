@@ -49,7 +49,7 @@ segregation-of-duties failure), **2 significant deficiencies** (access managemen
 ## Deliverables
 
 - [`SOX-ITGC-Report.docx`](SOX-ITGC-Report.docx): audit-style findings report (Word)
-- [`SOX-ITGC-Assessment.xlsx`](SOX-ITGC-Assessment.xlsx): control testing workbook (Excel)
+- [`SOX-ITGC-Assessment.xlsx`](SOX-ITGC-Assessment.xlsx(2)): control testing workbook (Excel)
 
 ## Repository structure
 
